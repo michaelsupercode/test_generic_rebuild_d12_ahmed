@@ -1,26 +1,27 @@
-[{
-        "id": "634283a1",
-        "title": "Baue ein Haus",
-        "completed": true
-    },
-    {
-        "id": "2a6c2205",
-        "title": "Plan future projects",
-        "completed": true
-    },
-    {
-        "id": "2f1d87f2",
-        "title": "Pause machen",
-        "completed": false
-    },
-    {
-        "id": "c8003f95",
-        "title": "Kaninchen füttern",
-        "completed": false
-    },
-    {
-        "id": "",
-        "title": "more contributions",
-        "completed": false
-    }
+[
+  {
+    "id": "634283a1",
+    "title": "Baue ein Haus",
+    "completed": true
+  },
+  {
+    "id": "2a6c2205",
+    "title": "Plan future projects",
+    "completed": true
+  },
+  {
+    "id": "2f1d87f2",
+    "title": "Pause machen",
+    "completed": true
+  },
+  {
+    "id": "c8003f95",
+    "title": "Kaninchen füttern",
+    "completed": true
+  },
+  {
+    "id": "461cb0a5",
+    "title": "more contributions",
+    "completed": true
+  }
 ]
