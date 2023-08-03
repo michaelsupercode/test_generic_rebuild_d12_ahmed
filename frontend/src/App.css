@@ -106,3 +106,8 @@ ul li {
     justify-content: center;
     border-radius: 6px;
 }
+
+h6 {
+    margin: 15vh;
+    text-align: center;
+    }
