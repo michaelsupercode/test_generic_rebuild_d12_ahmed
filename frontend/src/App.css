@@ -11,9 +11,13 @@ body {
     width: 400px;
     margin: 10vh auto;
     background-color: white;
-    padding: 20px;
+    padding: 8em;
     border-radius: 6px;
 }
+
+.App:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
 
 .App-logo {
     height: 40vmin;
