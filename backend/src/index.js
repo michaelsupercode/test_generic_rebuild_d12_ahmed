@@ -16,7 +16,7 @@ app.use((req, _, next) => {
 })
 
 app.get("/", (_, res) => {
-    res.send("it works :)")
+    res.send("server works :)")
 })
 
 // Route 1 - alle todos anzeigen
